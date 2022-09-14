@@ -1,3 +1,5 @@
+To see illustration of project and the work-flow, see https://www.youtube.com/watch?v=Z0O5b5MmeIY
+
 To run the game system in its full capacity, simpy run
 
 ```
